@@ -1,7 +1,42 @@
 = Fraktionen
 
-== Wüstenreiter
+== Sauropoden
 Eine Stadt errichtet auf einem riesigen Dinosaurier, welche mit Zelten auf den Rücken die Besitzer von a nach b bringen.
+
+=== Wo?
+Die Sauropoden sind ein reisendes Volk, sie haben keine großen Städte, dafür leben die Leute und die Gemeinschaft auf
+den Rücken mehrerer Dinosaurier, welche in ihrer das ganze Jahr andauernden Wanderung von Flussbett zu Flussbett durch
+die Wüste wandern.
+
+=== Kultur
+Bei den Sauropoden ist es üblich, dass jedes Kind im Alter von 4 Jahren mit einem oder mehreren Dinosauriern vereinigt
+wird. Danach Leben, Kämpfen und Arbeiten die Kinder und später Erwachsenen mit den Dinosauriern Hand in Hand um
+sich schließlich auf einem großen Dinosaurier eine neue Hausgemeinschaft, bestehend aus Tuch, Seilen und Teilweise
+teuren Holz- und Eisengegenständen, welche von den Großeltern weitervererbt wird.
+
+=== Berufe
+Da die Sauropoden ein Wandervolk sind, ist es nicht möglich den Beruf eines Bauern durchzuführen, viel eher sind es Jäger,
+welche die Tiere der Umgebung jagen, Sammler, welche den wertvollen Wüstenpilz vom Sand einsammeln und Tiertreiber,
+welche eine Reihe von Riesenechsen und Kamelen vor sich hertreiben, vermehren und umsorgen um sie schlussendlich zu essen.
+Soziale Berufe, gibt es wie bei jedem anderen Volk genauso und auch ein Schmied, Händler und Näher, welche ihr Garn durch
+die Wüstenspinnen gewinnen, mit denen die Sauropoden in vollständiger Symbiose leben.
+
+=== Waffen
+Die Waffen sind meistens aus Sandstein hergestellt, welche der Schmied mit der in der Wüste am häufigsten vorkommenden,
+Resource herstellt. Fernkampfwaffen, sind in ermangelung einer flexiblen Resource wie Holz nicht verbreitet. Viel eher
+setzten die Krieger auf ihre Wurfspeere und/oder Feuerzauber, je nachdem welcher Richtung sie sich im Zwiespalt zugeschrieben
+haben.
+
+=== Zwiespalt
+Bei den Sauropoden existiert der Zwiespalt ebenfalls, nach der Ideologie des Hinduismus und des Ritualismus. Keiner
+der beiden Ideologien wird besonders bevorzugt, mehr noch möchte, dass Volk beide Ideale aufrechterhalten, damit sie
+universal einsatzfähig sind.
+
+=== Verstecken
+Die Sauropoden haben es schwer sich vor den Augen des Zeberus, Urbestie des Südens und des Feuers, zu verstecken.
+Deswegen haben die Ritualisten einen riesigen Bannkreis aufgebaut, dieser mit Seilen von einem Dinosaurier zu einem
+anderen gespannt um ein riesiges Pentagramm zu erschaffen, wird Täglich von Ritualisten gespeist um eine Tarnschicht,
+um die Dinosaurierstadt aufrecht zu erhalten.
 
 == Alkanta Adel
 Der Hochadel, welcher alle anführt und die Bewohner von Alkanta Schützen und im Wohlstand halten.
