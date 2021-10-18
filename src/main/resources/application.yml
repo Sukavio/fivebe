@@ -11,5 +11,5 @@ quarkus:
 
   mongodb:
     application-name: FIVE
-    connection-string: ${QUARKUS_CONNECTION_STRING:mongodb://falkengrundzyklus:falkengrundzyklus@localhost:27017}
+    connection-string: ${QUARKUS_CONNECTION_STRING:mongodb://five:five@localhost:27017/five}
     database: five

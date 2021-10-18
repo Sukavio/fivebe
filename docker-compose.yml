@@ -1,0 +1,12 @@
+version: '3'
+services:
+  mongodb:
+    image: mongo:5.0
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=password
+      - MONGO_INITDB_USERNAME=five
+      - MONGO_INITDB_PASSWORD=five
+      - MONGO_INITDB_DATABASE=five
+    ports:
+      - 27017:27017
